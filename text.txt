@@ -1,0 +1,9 @@
+API Key: 59a2bb15fe5bb77b81d94f857e484438
+
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=59a2bb15fe5bb77b81d94f857e484438
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=59a2bb15fe5bb77b81d94f857e484438
+
+https://api.themoviedb.org/3/movie/popular?api_key=59a2bb15fe5bb77b81d94f857e484438
+
+https://api.themoviedb.org/3/movie/{movie_id}/recommendations
