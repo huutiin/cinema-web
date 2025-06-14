@@ -168,7 +168,7 @@ export default function Header() {
             </button>
           </div>
 
-          <button
+          {/* <button
             className="bg-white rounded"
             onClick={() => setIsOpen(!isOpen)}
           >
@@ -190,7 +190,7 @@ export default function Header() {
             >
               {displayStep(currentStep)}
             </StepperContext.Provider>
-          </MultiStep>
+          </MultiStep> */}
 
           {/* <!-- Left navbar links --> */}
           <div
